@@ -1,7 +1,0 @@
-source /opt/ros/noetic/setup.bash
-source ~/rosWorkspaces/moveit_ws/devel/setup.bash
-source ~/rosWorkspaces/effective_ws/devel/setup.bash
-source ~/rosWorkspaces/psabook_ws/devel/setup.bash
-source ~/rosWorkspaces/ath_ws/devel/setup.bash
-source ~/rosWorkspaces/phantomX_ws/devel/setup.bash
-source ~/rosWorkspaces/mastering_ws/devel/setup.bash
