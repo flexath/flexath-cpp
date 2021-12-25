@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1638638530 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\queue\queue\src\arrayqueue.cpp
+	"ArrayQueue.h"
+	<iostream>
+
+1638638292 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\queue\queue\include\arrayqueue.h
+	<iostream>
+
+1638678559 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\queue\queue\src\linkedlistqueue.cpp
+	"LinkedListQueue.h"
+	<iostream>
+	<stdio.h>
+
+1638678237 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\queue\queue\include\linkedlistqueue.h
+
+1638678193 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\queue\queue\main.cpp
+	<iostream>
+	<stdio.h>
+	"ArrayQueue.h"
+	"LinkedListQueue.h"
+

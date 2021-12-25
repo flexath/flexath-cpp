@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1638461566 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\main.cpp
+	<iostream>
+	<stdio.h>
+	"SinglyLinkedList.h"
+	"DoublyLinkedList.h"
+
+1638279251 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\src\linkedlist.cpp
+	"SinglyLinkedList.h"
+	"LinkedList.h"
+
+1638452823 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\include\singlylinkedlist.h
+
+1638279914 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\include\linkedlist.h
+
+1638453508 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\src\singlylinkedlist.cpp
+	<iostream>
+	"SinglyLinkedList.h"
+
+1638461566 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\include\doublylinkedlist.h
+
+1638460693 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ data structures and algorithms\linked list\linked list\src\doublylinkedlist.cpp
+	<iostream>
+	"DoublyLinkedList.h"
+

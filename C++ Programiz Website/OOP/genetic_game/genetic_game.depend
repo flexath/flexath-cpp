@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1637836460 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\main.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	"Genetic.h"
+	"first_family.h"
+	"second_family.h"
+	<string>
+
+1637756929 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\src\genetic.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	"Genetic.h"
+	"first_family.h"
+	"second_family.h"
+
+1637756982 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\include\genetic.h
+	<stdio.h>
+
+1637756776 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\include\first_family.h
+	<Genetic.h>
+
+1637757468 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\src\first_family.cpp
+	<iostream>
+	<iostream>
+	<stdio.h>
+	"Genetic.h"
+	"first_family.h"
+	"second_family.h"
+
+1637836791 d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\include\second_family.h
+	<Genetic.h>
+	<string>
+
+1637836906 source:d:\my files\mechatronic engineering\c++ programming\c++ programs\c++ programiz website\oop\genetic_game\src\second_family.cpp
+	"second_family.h"
+	<iostream>
+	<iostream>
+	<stdio.h>
+	"Genetic.h"
+	"first_family.h"
+	<string>
+

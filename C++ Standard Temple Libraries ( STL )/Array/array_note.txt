@@ -1,0 +1,16 @@
+Topic : std::array
+
+Syntax       =>     std::array<type,size> array_name;
+
+Definition   =>     std::array is a container that encapsulates fixed sizes arrays and is needed at compile time.
+
+Operations   =>     at()          - The function is used to access the elements of array.
+                    get()         - The function is also used to access the elements of array.
+                    []            - It is similar to C style arrays.It is also used to access the elements of array.
+                    front()       - The function returns the first element of array.
+                    back()        - The function returns the last element of array.
+                    size()        - The function returns the number of elements in array.
+                    max_size()    - The function returns the maximum number of elements in array can hold.
+                    empty()       - The function returns true when the array size is zero else returns false.
+                    swap()        - The function swaps all elements of one array with other.
+                    fill()        - The function is used to fill the entire array(all elements) with a particular value.

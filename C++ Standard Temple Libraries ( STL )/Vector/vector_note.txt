@@ -1,0 +1,41 @@
+Topic : std::vector
+
+Syntax       =>     std::array<type,size> array_name;
+
+Definition   =>     std::vector is a sequence container and also knows as dynamic array or array list (linked list + array) and
+                    is not needed at compile time.Its size can grow and shrink dynamically.
+
+Operations
+
+Iterator     =>     begin()     - The function returns an iterator pointing to the first element in the vector.
+                    end()       - The function returns an iterator pointing to the last element in the vector.
+                    rbegin()    - The function returns a reverse iterator pointing to the last element in the vector.
+                    rend()      - The function returns a reverse iterator pointing to the first element in the vector.
+                    cbegin()    - The function returns a constant iterator pointing to the first element in the vector.
+                    cend()      - The function returns a constant iterator pointing to the last element in the vector.
+                    crbegin()   - The function returns a constant reverse iterator pointing to the last element in the vector.
+                    crend()     - The function returns a constant reverse iterator pointing to the first element in the vector.
+
+Capacity     =>     size()            - The function returns the number of elements in the vector.
+                    max_size()        - The function returns the maximum number of elements in the vector can hold.
+                    capacity()        - The function returns the size of the storage space currently allocated to the vector.
+                    empty()           - The function returns whether the container is empty.
+                    resize(n)         - The function resizes the container so that it contains 'n' elements.
+                    shrink_to_fit()   - The function reduces the capacity of the container to fit its size and destroys all elements beyond the capacity.
+                    reserve()         - The function requests that vector capacity be at least enough to contain n elements.
+
+Accessing   =>      []          - The function returns a reference to the element at position 'g' in the vector.
+                    at(g)       - The function returns a reference to the element at position 'g' in the vector.
+                    front()     - The function returns a reference to the first element in the vector.
+                    back()      - The function returns a reference to the last element in the vector.
+                    data()      - The function returns a direct pointer to the memory array used internally by the vector to store it s owned elements.
+
+Modifiers  =>       assign()        - The function assigns new value to the vector elements by replacing old ones.
+                    push_back()     - The function push the elements into a vector from the back.
+                    pop_back()      - The function pop the elements from a vector from the back.
+                    insert()        - The function inserts new elements before the element at the specified position.
+                    erase()         - The function removes the elements from a container from the specified position or range.
+                    swap()          - The function swaps the contents of one vector with another vector of same type.Sizes may differ.
+                    clear()         - The function removes all the elements of the vector container.
+                    emplace()       - The function extends the container by inserting new element at position.
+                    emplace_back()  - The function inserts a new element into the vector container,the new element is added to the end of the vector.

@@ -1,0 +1,2 @@
+D:\My Files\Mechatronic Engineering\C++ Programming\Programiz C++\IntroC++\Debug\IntroC++.exe
+D:\My Files\Mechatronic Engineering\C++ Programming\Programiz C++\IntroC++\Debug\IntroC++.pdb
