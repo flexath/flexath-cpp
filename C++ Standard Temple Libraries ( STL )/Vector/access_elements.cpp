@@ -10,8 +10,7 @@ int main()
     printf("Element at front - %d\n" , num.front());
     printf("Element at front - %d\n" , num.back());
 
-    int *ptr = num.data();
     for(int i = 0 ; i < num.size() ; i++){
-        std::cout << ptr[i] << " " ;
+        std::cout << num.data()[i] << " " ;
     }
 }
