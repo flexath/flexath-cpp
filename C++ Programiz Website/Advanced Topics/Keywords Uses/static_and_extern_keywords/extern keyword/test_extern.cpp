@@ -1,1 +1,1 @@
-int ath = 10;
+int var = 99;
